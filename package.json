@@ -1,0 +1,13 @@
+{
+  "name": "jinengwuziqi",
+  "version": "1.0.0",
+  "description": "技能五子棋在线对战",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["gomoku", "五子棋", "sse", "multiplayer"],
+  "author": "",
+  "license": "ISC"
+}
